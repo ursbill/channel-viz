@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= 'NQI2O8LNI7FRCFJgjZc4rxWD94NkSKfmInupfEBN6Kc8P6g3', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [1601158606!Tkoll!Tvl!Twto!Twtu!Ps!Vs], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [1601158606], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'W9 Solar Water Heater', // Replaces Xively logo in the header
 		dataDuration	= '1day', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 120, // Default interval for data to be displayed (in seconds)
